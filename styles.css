@@ -1,0 +1,28 @@
+.bg-light {
+    background-color: lightblue !important;
+}
+.navbar-light .navbar-brand {
+    background-color: DARKGRAY;
+}
+.col-8 col-sm-6{
+    background-color: lightblue;
+}
+.p-2 {
+    padding: .5rem!important;
+    background-color: white !important;
+    color: black;
+}
+.bg-secondary {
+    background-color: white !important;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+    padding-top:20px;
+    background-color: lightblue;
+    color: grey;
+    font-size: 24px;
+    text-align: center;
+  }
